@@ -1,30 +1,22 @@
-# Assignment
-
-## Objectives
-
-By the end of this project you will:
-
-- clone a Github project.
-- install a npm package.
-- debug a piece of code.
-
 ## Introduction
 
 Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.  
 
 ## Specifications
 
-The finished project:
+Clone the repository to your local system
 
-- loads a new fact when you refresh the page.
-- runs with no errors.
-- has the readme updated with how to run this web server.
+$ https://github.com/alexvirga/application_assignment.git
 
-![working app](app.gif)
+## Install 
 
-## Submission Requirements
+$ npm install
 
-Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
+## Usage
+
+$ npm start
+
+This will serve your code on http://localhost:3000.
 
 ## References
 
